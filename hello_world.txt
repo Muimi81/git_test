@@ -1,0 +1,5 @@
+Hello world.
+
+This is my first Odin Project excercise in Git and GitHub.
+
+I am super excited!
